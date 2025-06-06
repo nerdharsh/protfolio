@@ -396,8 +396,8 @@ const projects: Project[] = [
     title: "My Portfolio",
     src: "/assets/projects-screenshots/myportfolio/landing.png",
     screenshots: ["assets/projects-screenshots/myportfolio/landing.png"],
-    live: "https://www.abhijitzende.com/",
-    github:"https://github.com/Abhiz2411/3D-interactive-portfolio",
+    live: "https://protfolio-zeta-opal.vercel.app/",
+    github:"https://github.com/nerdharsh",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
